@@ -4,10 +4,10 @@
   "private": true,
   "dependencies": {
     "gh-pages": "^2.1.1",
+    "homepage": "https://github.com/Demipati/ghpages/",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0",
-    "homepage" : "https://Demipati.github.io/ghpages/"
+    "react-scripts": "3.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -16,7 +16,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
-
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -32,5 +31,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "typescript": "^3.6.4",
+    "xxxxx": "^1.0.3"
   }
 }
