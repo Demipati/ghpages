@@ -2,7 +2,7 @@
   "name": "ghpages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Demipati/ghpages/",
+  "homepage": "https://Demipati.github.io/ghpages/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
